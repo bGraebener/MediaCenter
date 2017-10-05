@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.text-area *.text {
+    -fx-text-alignment: center;
+}
+
+.text-area:readonly {
+	-fx-font-family: monospace;
+	-fx-font-style: italic ;
+}
+
+
+.button:hover, .toggle-button:hover{
+	-fx-background-color: rgba(0.0, 149.0, 199.0, 0.5)  ;
+}
+
+.toggle-button:selected {
+	-fx-background-color: #0095C7;
+}
+
+

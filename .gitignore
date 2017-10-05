@@ -1,0 +1,5 @@
+/bin
+/target
+/build
+*.mp3
+src/res/setup_clover_3.3.8.exe
